@@ -1,6 +1,6 @@
 package web.service;
 
-import web.model.Car;
+import web.entity.Car;
 
 import java.util.List;
 
